@@ -2,7 +2,7 @@
 
 A customizable memory challenge minigame for FiveM servers. Players are presented with a sequence of numbers, some of which are then hidden. They must recall and input the hidden numbers correctly to win.
 
-![image](https://github.com/user-attachments/assets/b5a9917a-612c-45da-90f2-4eda927b6f2d)
+![image](https://github.com/user-attachments/assets/49b3ad64-1313-45d5-84d6-ebda0a46b17d)
 
 ## Support
 
